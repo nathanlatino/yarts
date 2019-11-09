@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.2" tiledversion="1.2.3" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="3" nextobjectid="6">
+ <tileset firstgid="1" name="roguelikeSheet_transparent" tilewidth="16" tileheight="16" spacing="1" tilecount="1767" columns="57">
+  <image source="../felicity/felicity-0.1/roguelikeSheet_transparent.png" width="968" height="526"/>
+ </tileset>
+ <layer id="1" name="Tile Layer 1" width="16" height="16">
+  <data encoding="base64" compression="zlib">
+   eJxrYGNgaBjFoxgJMzMwMLAAMSsDefptgPpsgdiOTP2lQH1lQFxOpv5RTDwGAIPug3A=
+  </data>
+ </layer>
+ <objectgroup id="2" name="Object Layer 1">
+  <object id="4" x="48" y="48" width="128" height="48">
+   <properties>
+    <property name="name" value="Solid"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
