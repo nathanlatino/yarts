@@ -3,6 +3,10 @@
 * To import in Eclipse: **File -> Import -> General -> Existing Projects into Workspace**
 * To import to Intellij IDEA: **File -> Open -> YourProject.ipr**
 
+# Executable
+the jar is in the folder bin
+create jar : ./gradlew desktop:dist
+
 # Debug
 
 * `F1`: toggle state notifications

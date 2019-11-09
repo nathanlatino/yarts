@@ -32,7 +32,7 @@ public abstract class Conf {
 
 
     // Camera
-    public final static boolean FULL_SCREEN = true;
+    public final static boolean FULL_SCREEN = false;
 
     public final static float SCROLL_SPEED = .005f;
     public final static float SCROLL_BOUND = 40f;
