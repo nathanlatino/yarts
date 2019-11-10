@@ -1,13 +1,11 @@
-# Yet Another Real Time Strategy Game
-
-* To import in Eclipse: **File -> Import -> General -> Existing Projects into Workspace**
-* To import to Intellij IDEA: **File -> Open -> YourProject.ipr**
-
 # Quick start
 Inside bin/ run `java -jar desktop-1.0.jar`
 
-# Debug
+# Yet Another Real Time Strategy Game
+* Eclipse: **File -> Import -> General -> Existing Projects into Workspace**
+* Intellij: **File -> Open -> YourProject.ipr**
 
+# Debug
 * `F1`: toggle state notifications
 * `F2`: toggle inputs events
 * `F4`: toggle gui
